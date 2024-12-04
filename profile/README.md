@@ -1,5 +1,11 @@
 # German Aerospace Center (DLR) - Intitute for AI Safety and Security
 
+## Libraries
+
+|Repository|Actions|Documentation|Description|
+|:-|:-:|:-:|:-|
+|[SCAN](https://github.com/DLR-KI/scan)|&ndash;|&ndash;|SCAN (**S**oftware for **C**omplex system **A**nalysis via **N**etworks): A python package implementing the machine learning technique Reservoir Computing and related methods.|
+
 ## PoC: Federated Learning Demonstrator
 
 |Repository|Actions|Pages|Registry|Description|
