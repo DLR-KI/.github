@@ -5,6 +5,8 @@
 |Repository|Actions|Documentation|Description|
 |:-|:-:|:-:|:-|
 |[SCAN](https://github.com/DLR-KI/scan)|&ndash;|&ndash;|SCAN (**S**oftware for **C**omplex system **A**nalysis via **N**etworks): A python package implementing the machine learning technique Reservoir Computing and related methods.|
+|[pyCASX](https://github.com/DLR-KI/pycasx)|[![Python tests (pytest)](https://github.com/DLR-KI/pycasx/actions/workflows/pytest.yml/badge.svg)](https://github.com/DLR-KI/pycasx/actions/workflows/pytest.yml)|[:link:](https://pycasx.readthedocs.io/en/latest/)|Implementation of ACAS X<sub>A</sub> and ACAS X<sub>U</sub> with neural networks for FlightGear.|
+|[SafetyNet](https://github.com/DLR-KI/safetynet)|[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/DLR-KI/safetynet/main.svg)](https://results.pre-commit.ci/latest/github/DLR-KI/safetynet/main)|&ndash;|Contains the JSON schema for the different components of the SafetyNet standard.|
 
 ## PoC: Federated Learning Demonstrator
 
