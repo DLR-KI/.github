@@ -1,4 +1,4 @@
-# German Aerospace Center (DLR) - Intitute for AI Safety and Security
+# German Aerospace Center (DLR) - Institute for AI Safety and Security
 
 ## Libraries
 
