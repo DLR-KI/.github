@@ -1,4 +1,4 @@
-# German Aerospace Center (DLR) - Institute for AI Safety and Security
+# Institute for AI Safety and Security<br/><sup><sub>German Aerospace Center (DLR)</sub></sup>
 
 ## Libraries
 
@@ -10,6 +10,12 @@
 |[md-multiline-table](https://github.com/DLR-KI/md-multiline-table)|[![main workflow](https://github.com/DLR-KI/md-multiline-table/actions/workflows/main.yml/badge.svg)](https://github.com/DLR-KI/md-multiline-table/actions)|[:link:](https://dlr-ki.github.io/md-multiline-table)|This software extends the Python markdown implementation with multiline table support. It can be easily used with Python-Markdown and MkDocs as well as Material for MkDocs.|
 
 ## PoC: Federated Learning Demonstrator
+
+The Federated Learning Platform from the [German Aerospace Center (DLR)](https://www.dlr.de/en) is launched as
+part of the [Catena-X Automotive Network](https://catena-x.net/en) project which was sponsored by the
+[German Federal Ministry of Economics Affairs and Climate Action](https://www.bmwk.de/Navigation/EN/Home/home.html).
+The entire platform is a Prove of Concept (PoC).
+It is intended to show that decentralized machine learning is possible in the industry and the Catena-X automotive network.
 
 |Repository|Actions|Pages|Registry|Description|
 |:-|:-:|:-:|:-:|:-|
