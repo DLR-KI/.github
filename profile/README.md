@@ -16,6 +16,7 @@
 |:-|:-:|:-:|:-|
 |[ATC-LLM-Interface](https://github.com/DLR-KI/ATC-LLM-Interface)|&ndash;|&ndash;|ALI, the **A**ir-traffic-control **Large** language model **I**nterface. [[Paper]](https://ieeexplore.ieee.org/document/11257297)|
 |[LMC](https://github.com/DLR-KI/LMC)|&ndash;|&ndash;|Linear Mode Connectivity under Data Shifts for Deep Ensembles of Image Classifiers [[Paper]]()|
+|[NAC-regression](https://github.com/DLR-KI/nac-uncertainty-regression)|&ndash;|&ndash;|Neural Activation Coverage - extended to regression [[Paper]](https://arxiv.org/abs/2604.22360)|
 
 ## PoC: Federated Learning Demonstrator
 
