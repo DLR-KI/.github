@@ -4,19 +4,19 @@
 
 |Repository|Actions|Documentation|Description|
 |:-|:-:|:-:|:-|
-|[SCAN](https://github.com/DLR-KI/scan)|&ndash;|&ndash;|SCAN (**S**oftware for **C**omplex system **A**nalysis via **N**etworks): A python package implementing the machine learning technique Reservoir Computing and related methods.|
-|[pyCASX](https://github.com/DLR-KI/pycasx)|[![Python tests (pytest)](https://github.com/DLR-KI/pycasx/actions/workflows/pytest.yml/badge.svg)](https://github.com/DLR-KI/pycasx/actions/workflows/pytest.yml)|[:link:](https://pycasx.readthedocs.io/en/latest/)|Implementation of ACAS X<sub>A</sub> and ACAS X<sub>U</sub> with neural networks for FlightGear.|
-|[SafetyNet](https://github.com/DLR-KI/safetynet)|[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/DLR-KI/safetynet/main.svg)](https://results.pre-commit.ci/latest/github/DLR-KI/safetynet/main)|&ndash;|Contains the JSON schema for the different components of the SafetyNet standard.|
-|[md-multiline-table](https://github.com/DLR-KI/md-multiline-table)|[![main workflow](https://github.com/DLR-KI/md-multiline-table/actions/workflows/main.yml/badge.svg)](https://github.com/DLR-KI/md-multiline-table/actions)|[:link:](https://dlr-ki.github.io/md-multiline-table)|This software extends the Python markdown implementation with multiline table support. It can be easily used with Python-Markdown and MkDocs as well as Material for MkDocs.|
 |[LTNjax](https://github.com/DLR-KI/LTNjax)|[![main workflow](https://github.com/DLR-KI/LTNjax/actions/workflows/main.yml/badge.svg)](https://github.com/DLR-KI/LTNjax/actions)|[:link:](https://dlr-ki.github.io/LTNjax)|LTNjax is a neurosymbolic framework that allows the implementation of knowledge in the form of logical expressions as objective for neural networks. LTN uses a differentiable first-order logic language, called Real Logic, to incorporate machine learning and logic.|
+|[md-multiline-table](https://github.com/DLR-KI/md-multiline-table)|[![main workflow](https://github.com/DLR-KI/md-multiline-table/actions/workflows/main.yml/badge.svg)](https://github.com/DLR-KI/md-multiline-table/actions)|[:link:](https://dlr-ki.github.io/md-multiline-table)|This software extends the Python markdown implementation with multiline table support. It can be easily used with Python-Markdown and MkDocs as well as Material for MkDocs.|
+|[SafetyNet](https://github.com/DLR-KI/safetynet)|[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/DLR-KI/safetynet/main.svg)](https://results.pre-commit.ci/latest/github/DLR-KI/safetynet/main)|&ndash;|Contains the JSON schema for the different components of the SafetyNet standard.|
+|[pyCASX](https://github.com/DLR-KI/pycasx)|[![Python tests (pytest)](https://github.com/DLR-KI/pycasx/actions/workflows/pytest.yml/badge.svg)](https://github.com/DLR-KI/pycasx/actions/workflows/pytest.yml)|[:link:](https://pycasx.readthedocs.io/en/latest/)|Implementation of ACAS X<sub>A</sub> and ACAS X<sub>U</sub> with neural networks for FlightGear.|
+|[SCAN](https://github.com/DLR-KI/scan)|&ndash;|&ndash;|SCAN (**S**oftware for **C**omplex system **A**nalysis via **N**etworks): A python package implementing the machine learning technique Reservoir Computing and related methods.|
 
-## Papers and Demostrators
+## Papers and Demonstrators
 
 |Repository|Actions|Documentation|Description|
 |:-|:-:|:-:|:-|
-|[ATC-LLM-Interface](https://github.com/DLR-KI/ATC-LLM-Interface)|&ndash;|&ndash;|ALI, the **A**ir-traffic-control **Large** language model **I**nterface. [[Paper]](https://ieeexplore.ieee.org/document/11257297)|
-|[LMC](https://github.com/DLR-KI/LMC)|&ndash;|&ndash;|Linear Mode Connectivity under Data Shifts for Deep Ensembles of Image Classifiers [[Paper]]()|
 |[NAC-regression](https://github.com/DLR-KI/nac-uncertainty-regression)|&ndash;|&ndash;|Neural Activation Coverage - extended to regression [[Paper]](https://arxiv.org/abs/2604.22360)|
+|[LMC](https://github.com/DLR-KI/LMC)|&ndash;|&ndash;|Linear Mode Connectivity under Data Shifts for Deep Ensembles of Image Classifiers [[Paper]]()|
+|[ATC-LLM-Interface](https://github.com/DLR-KI/ATC-LLM-Interface)|&ndash;|&ndash;|ALI, the **A**ir-traffic-control **Large** language model **I**nterface. [[Paper]](https://ieeexplore.ieee.org/document/11257297)|
 
 ## PoC: Federated Learning Demonstrator
 
