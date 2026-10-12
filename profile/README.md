@@ -19,7 +19,7 @@
 |[LMC](https://github.com/DLR-KI/LMC)|&ndash;|&ndash;|Linear Mode Connectivity under Data Shifts for Deep Ensembles of Image Classifiers [[Paper]]()|
 |[ATC-LLM-Interface](https://github.com/DLR-KI/ATC-LLM-Interface)|&ndash;|&ndash;|ALI, the **A**ir-traffic-control **Large** language model **I**nterface. [[Paper]](https://ieeexplore.ieee.org/document/11257297)|
 
-## PoC: Federated Learning Demonstrator
+## PoC: Federated Learning Demonstrator (Archived)
 
 The Federated Learning Platform from the [German Aerospace Center (DLR)](https://www.dlr.de/en) is launched as
 part of the [Catena-X Automotive Network](https://catena-x.net/en) project which was sponsored by the
